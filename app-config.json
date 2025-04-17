@@ -1,6 +1,6 @@
 {
   "ocrApiKeys": {
-    "gemini": "AIzaSyAcFYlDfm9Dlmy119o11PrHnuW8nHE9Exk"
+    "gemini": ""
   },
   "defaultOcrMethod": "gemini",
   "ocrTemplate": "travel"
